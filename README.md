@@ -9,11 +9,13 @@ Experienced DevOps Engineer with 2+ years of expertise in Continuous Integration
 - 🌱 I’m currently learning Full Stack Web Development.
 
   ### I code in
-  
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+ <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+
 
   ## **🛠️ Tech Stack**
   
-### 1. Backend <img width="24" height="24" src="https://img.icons8.com/material/24/postgreesql.png" alt="postgreesql"/>
+### 1. Backend <img width="24" height="24" src="https://img.icons8.com/material/24/postgreesql.png" alt="postgreesql"/> 
 
   - REST Framework
   - PostgreSQL, MySQL
